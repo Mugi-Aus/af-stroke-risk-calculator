@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+xgboost
+lightgbm
+scikit-learn==1.5.2
+scikit-survival
+openpyxl
